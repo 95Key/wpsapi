@@ -9,7 +9,7 @@ import (
 
 	"github.com/patrickmn/go-cache"
 
-	"util"
+	"github.com/95key/util"
 )
 
 // Term represents a row from '` + GetTableName("terms") + `'.
