@@ -10,7 +10,7 @@ import (
 
 	"github.com/patrickmn/go-cache"
 
-	"util"
+	"github.com/95key/util"
 )
 
 // Post represents a row from '` + GetTableName("posts") + `'.
